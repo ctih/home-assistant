@@ -67,7 +67,7 @@ FAN_HIGH = "high"
 FAN_MIDDLE = "middle"
 FAN_FOCUS = "focus"
 FAN_DIFFUSE = "diffuse"
-
+FAN_NATURE = "nature"  # Natural Wind (Auto Wind) some LG AC have thes feature.
 
 # Possible swing state
 SWING_OFF = "off"
